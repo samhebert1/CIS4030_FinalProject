@@ -1,0 +1,12 @@
+{
+  "contactName" : "Window Washing Made Affordable",
+  "city" : "Alexandria",
+  "phone" : "3188804488",
+  "email" : "windowwashingmadeaffordable@gmail.com",
+  "workers" : [
+    {
+      "service1" : "Residential",
+      "service2" : "Commercial"
+    }
+  ]
+}
