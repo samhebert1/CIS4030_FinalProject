@@ -1,12 +1,24 @@
 {
-  "contactName" : "Window Washing Made Affordable",
-  "city" : "Alexandria",
-  "phone" : "3188804488",
-  "email" : "windowwashingmadeaffordable@gmail.com",
-  "workers" : [
+  "contactName": "Window Washing Made Affordable",
+  "city": "Alexandria",
+  "phone": "3188804488",
+  "email": "windowwashingmadeaffordable@gmail.com",
+  "workers": [
     {
-      "service1" : "Residential",
-      "service2" : "Commercial"
+      "memberName": "John Smith",
+      "memPhone": "318-880-4488",
+      "shift" : "AM"
+    },
+
+    {
+      "memberName" : "Anthony Tactly",
+      "memPhone" : "318-867-5309",
+      "shift" : "PM"
+    },
+    {
+      "memberName" : "Blake Given",
+      "memPhone" : "318-515-7743",
+      "shift" : "AM"
     }
   ]
 }
