@@ -8,34 +8,45 @@
       "memberName": "John Smith",
       "memPhone": "318-880-4488",
       "shift" : "AM",
-      "day" : "Monday"
+      "day" : 0
     },
-
     {
       "memberName" : "Anthony Tactly",
       "memPhone" : "318-867-5309",
       "shift" : "PM",
-      "day" : "Tuesday"
+      "day" : 1
     },
     {
       "memberName" : "Blake Brood",
       "memPhone" : "318-515-7743",
       "shift" : "AM",
-      "day" : "Wednesday"
+      "day" : 2
     },
     {
       "memberName" : "Timothy Tempest",
       "memPhone" : "318-445-3333",
       "shift" : "AM",
-      "day" : "Thursday"
+      "day" : 3
 
     },
     {
       "memberName" : "Craig Crafting",
       "memPhone" : "318-442-1124",
       "shift" : "PM",
-      "day" : "Friday"
+      "day" : 4
 
+    },
+    {
+      "memberName": "Walter Winsor",
+      "memPhone": "318-555-7667",
+      "shift": "Weekend",
+      "day": 5
+    },
+    {
+      "memberName" : "Craig Crafting",
+      "memPhone" : "985-515-4400",
+      "shift" : "Weekend",
+      "day" : 6
     }
 
   ]
