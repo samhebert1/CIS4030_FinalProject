@@ -7,18 +7,36 @@
     {
       "memberName": "John Smith",
       "memPhone": "318-880-4488",
-      "shift" : "AM"
+      "shift" : "AM",
+      "day" : "Monday"
     },
 
     {
       "memberName" : "Anthony Tactly",
       "memPhone" : "318-867-5309",
-      "shift" : "PM"
+      "shift" : "PM",
+      "day" : "Tuesday"
     },
     {
-      "memberName" : "Blake Given",
+      "memberName" : "Blake Brood",
       "memPhone" : "318-515-7743",
-      "shift" : "AM"
+      "shift" : "AM",
+      "day" : "Wednesday"
+    },
+    {
+      "memberName" : "Timothy Tempest",
+      "memPhone" : "318-445-3333",
+      "shift" : "AM",
+      "day" : "Thursday"
+
+    },
+    {
+      "memberName" : "Craig Crafting",
+      "memPhone" : "318-442-1124",
+      "shift" : "PM",
+      "day" : "Friday"
+
     }
+
   ]
 }
